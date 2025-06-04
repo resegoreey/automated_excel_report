@@ -1,4 +1,4 @@
-#!/home/resego/projects/automated_excel_report/venv/bin/python3
+#!/home/wtc/Github/automated_excel_report/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
