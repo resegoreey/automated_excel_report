@@ -1,6 +1,6 @@
 import pandas as pd
 from openpyxl import Workbook
-from openpyxl.styles import Font, Alignment, PatternFill, Side
+from openpyxl.styles import Font, Alignment, PatternFill, Side, Border
 from pathlib import Path
 
 DATA_FILE = Path("data/sales_data.csv")
